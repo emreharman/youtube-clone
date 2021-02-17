@@ -13,3 +13,5 @@
 - You can type and search video. App uses youtube api and lists 5 of them on right section. You can click any of them to make it the selected one. You can watch video with iframe. İmage:
 
 ![searchScreen](https://raw.githubusercontent.com/emreharman/youtube-clone/master/src/img/searchScreen.jpg)
+
+> I've utilized this project from [Javascript Mastery](https://www.youtube.com/watch?v=VPVzx1ZOVuw).
